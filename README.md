@@ -71,7 +71,7 @@ This project is a resume parser and LaTeX PDF generator. Users can input their r
 
 ## Credits
 
-- **Aditya Patel** - Team Lead
+- **Aditya Patel** 
 - **Jeel Shah**
 - **Siddhant Goel**
 - **Krish Rajani**
